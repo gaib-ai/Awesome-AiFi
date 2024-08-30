@@ -8,9 +8,11 @@ Welcome to the **Awesome AiFi** ! This is a curated list of valuable resources r
 - Tools
 
 ## Contributing
+
 We welcome contributions! If you have resources or tools to add, please submit a pull request or open an issue.
+
 Contributor list:
-- GAIB.ai
+- [GAIB.ai](https://www.gaib.ai/)
 
 ## License
 This project is licensed under the MIT License.
